@@ -1,0 +1,1 @@
+This is a resume in HTML5 and CSS script. Feel free to go through it.
